@@ -40,13 +40,6 @@ const MainAreaBox = styled.div`
   background-size: contain;
   background-repeat: no-repeat;
 `;
-const ImgTemp = styled.img`
-  //   position: absolute;
-  //   top: 0px;
-  //   left: 0px;
-  width: 100%;
-  object-fit: cover;
-`;
 const ImgWrapper = styled.div`
   width: 10%;
   display: flex;
